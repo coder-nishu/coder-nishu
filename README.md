@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm Anjum Hossain, a passionate web developer focused on building dynamic, modern web applications. I specialize in React, a powerful framework that allows me to create seamless and engaging user experiences on the web, and I truly enjoy working with it.</h4>
+<h4 align="left">I'm Abid Khan Nishat, a passionate web developer focused on building dynamic, modern web applications. I specialize in React, a powerful framework that allows me to create seamless and engaging user experiences on the web, and I truly enjoy working with it.</h4>
 
 ###
 
@@ -13,19 +13,19 @@
         <table align="center">
             <tr>
                 <td align="center" width="100">
-                    <a href="mailto:anjumhossainrafi16@gmail.com">
+                    <a href="mailto:nishatkh1582@gmail.com">
                         <img src="https://skillicons.dev/icons?i=gmail" alt="icon" width="45" height="45" />
                         <br>Email
                     </a>
                 </td>
                 <td align="center" width="100">
-                    <a href="https://www.linkedin.com/in/anjum-hossain-519a192b2/" target="_blank">
+                    <a href="https://www.linkedin.com/in/abid-khan-nishat/" target="_blank">
                         <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
                         <br>Linkedin
                     </a>
                 </td>
                 <td align="center" width="100">
-                    <a href="https://t.me/anjumhossain" target="_blank">
+                    <a href="https://t.me/nishatkh1582" target="_blank">
                         <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="45" height="45" alt="Telegram" />
                         <br>Telegram
                     </a>

@@ -1,7 +1,7 @@
 # Hi, I'm Abid Khan Nishat 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=100&color=6AD3F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me

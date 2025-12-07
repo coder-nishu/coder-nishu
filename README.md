@@ -73,14 +73,6 @@ I'm a passionate **Full-Stack Web Developer** specializing in modern web technol
 - 🌐 Contributing to open-source projects
 - 📚 Sharing knowledge through code and documentation
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-nishu&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=coder-nishu&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
